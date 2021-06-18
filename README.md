@@ -1,3 +1,4 @@
+# 這裡面的shell script可以自動執行benchmark以及收集數據
 用git clone記得把gpgpusim-script改成task，不然有些絕對路徑找不到
 
 task資料夾裡面有二個資料夾:
