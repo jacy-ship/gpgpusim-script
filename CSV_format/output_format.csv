@@ -1,0 +1,57 @@
+Name
+L1 access
+L1 miss
+L1 miss rate
+L2 access
+L2 miss
+L2 miss rate
+L2_access_Q_full
+L2_reply_Q_full
+Stall_shd_mem
+L2toDRAM_Q_stall
+L2toICNT_Q_stall
+Dataport_stall
+RF_stall
+Total_stall
+GPU cycle
+IPC
+L1 reservation_fails
+L1 pending_hits
+L2 reservation_fails
+L2 pending_hits
+L1VC_ACCESS 
+L1VC_HIT 
+L1VC_MISS 
+L1VC_RF
+L2VC_ACCESS 
+L2VC_HIT 
+L2VC_MISS 
+L2VC_RF
+total time
+L1_div1_hit
+L1_div2_hit
+L1_div3_hit
+L1_div4_hit
+L1VC_div1_hit
+L1VC_div2_hit
+L1VC_div3_hit
+L1VC_div4_hit
+L1_read_hit
+L1_read_miss
+L1 write hit
+L1 write miss
+L1 bypass read request
+L1 bypass write request
+avg time of L1 miss request
+avg time of L1 div1 miss request 
+L2 response request size 0
+L2 response request size 1
+L2 response request size 2
+L2_div1_hit
+L2_div2_hit
+L2_div3_hit
+L2_div4_hit
+L2VC_div1_hit
+L2VC_div2_hit
+L2VC_div3_hit
+L2VC_div4_hit
