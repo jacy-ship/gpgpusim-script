@@ -8,7 +8,8 @@ task資料夾裡面有二個資料夾:
 
 2. run_script 資料夾:
    2.1. Bash 資料夾:
-   3.
+
+
          2.1.1 change_file_bash 資料夾:
                依據不同架構會換不同的switch_config以及gpgpusim.config。
          2.1.2 collect_data_bash 資料夾:
