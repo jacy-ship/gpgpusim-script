@@ -8,6 +8,7 @@ task資料夾裡面有二個資料夾:
    1.1 收集模擬跑出來的數據，他會依據設計的模擬架構分別產出不同的資料夾。(例如baseline,L1 cache*2,bypass,etc)
 
 2. run_script 資料夾:
+
    2.1. Bash 資料夾:
    
          2.1.1 change_file_bash 資料夾:
